@@ -68,6 +68,13 @@
     .sidebar a {float: left;}
     div.content {margin-left: 0;}
   }
+.navbar--main{
+      overflow: hidden;
+      background-color: #333;
+      position: fixed;
+      top: 0;
+      width: 100%;
+}
 
   @media screen and (max-width: 700px) {
     .sidebar--hash {
