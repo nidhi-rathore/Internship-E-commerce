@@ -28,6 +28,10 @@
     background-color: #04AA6D;
     color: white;
   }
+.sidebar--main {
+    background-color: #04AA6D;
+    color: white;
+  }
   
   /* Links on mouse-over */
   .sidebar a:hover:not(.active) {
