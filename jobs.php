@@ -3,6 +3,7 @@
 <div class="content">
 <table class="table table-success table-striped">
   <thead>
+    
     <tr>
       <th scope="col">Serial No.</th>
       <th scope="col">Candidate Name</th>
