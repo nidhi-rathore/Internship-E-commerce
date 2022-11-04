@@ -13,6 +13,7 @@
         /* max-width: 100px; */
         /* margin-left: 40em; */
         backdrop-filter: blur(7px);
+          
       }
       h1{
         padding: 30px;
